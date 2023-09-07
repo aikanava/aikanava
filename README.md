@@ -8,7 +8,7 @@
 
 💪 *Interests include web development, graphic design, and video editing*
 
-🌱 *C++, HTML & CSS, Javascript, Python, Java*
+🌱 *HTML & CSS, Javascript, C++, Python, Java*
 
 
 ## Let's Connect!
