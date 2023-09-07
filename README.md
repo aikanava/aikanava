@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center">
+  <img width="250" src="https://i.imgur.com/Va1O38x.gif" alt="speech-bubble"> <br>
+  <text> Learning more things about the path I'm taking one cup of coffee at a time. ☕ </text>
+</p>
 
-<!--
-**aikanava/aikanava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## The Basics!
+📖 *Currently taking up **BS in Computer Science** at West Visayas State University*
 
-Here are some ideas to get you started:
+💪 *Interests include web development, graphic design, and video editing*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 *C++, HTML & CSS, Javascript, Python, Java*
+
+
+## Let's Connect!
+Gmail: [angelikanava31@gmail.com](mailto:angelikanava31@gmail.com)
+
+LinkedIn: [Angelika Nava](https://www.linkedin.com/in/angelikanava/)
