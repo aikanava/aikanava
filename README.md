@@ -13,5 +13,3 @@
 
 ## Let's Connect!
 💌 Gmail: [angelikanava31@gmail.com](mailto:angelikanava31@gmail.com)
-
-💙 LinkedIn: [Angelika Nava](https://www.linkedin.com/in/angelikanava/)
