@@ -12,4 +12,4 @@
 
 
 ## Let's Connect!
-💌 Gmail: [angelikanava31@gmail.com](mailto:angelikanava31@gmail.com)
+💌 Gmail: [angelikamarienava@gmail.com](mailto:angelikamarienava@gmail.com)
